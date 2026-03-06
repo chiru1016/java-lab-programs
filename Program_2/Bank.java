@@ -15,7 +15,6 @@ public class P02 {
         totalAccounts++; 
     } 
  
-    // Constructor 2: Name + Deposit 
     public P02(String name, double initialDeposit) { 
         this.name = name; 
         this.balance = initialDeposit; 
