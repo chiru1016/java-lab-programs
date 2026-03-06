@@ -6,8 +6,6 @@ public class P02 {
     private String name,accountType; 
     private double balance; 
      
- 
-    // static variable 
     private static int totalAccounts = 0; 
  
     // Constructor 1: Only Name 
