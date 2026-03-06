@@ -30,8 +30,7 @@ public class P02 {
         this.accountType = accountType; 
         totalAccounts++; 
     } 
- 
-    // Deposit overloading 
+
     public void deposit(double amount) { 
         balance += amount; 
         System.out.println("Deposited " + amount + " New Balance = " + balance); 
