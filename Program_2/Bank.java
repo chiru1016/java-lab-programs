@@ -7,8 +7,7 @@ public class P02 {
     private double balance; 
      
     private static int totalAccounts = 0; 
- 
-    // Constructor 1: Only Name 
+
     public P02(String name) { 
         this.name = name; 
         this.accountType = "Savings"; 
