@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 class Calc {
 
-
     static int num1;
     static int num2;
 
