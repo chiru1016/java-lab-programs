@@ -21,7 +21,7 @@ class LaserJet extends Printer {
 	}
 	
 	public void display() {
-		System.out.println("disp of laser\n");
+		System.out.println("display of laser\n");
 	}
 }
 
