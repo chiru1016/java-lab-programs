@@ -11,7 +11,7 @@ class DotMatrix extends Printer {
 	}
 	
 	public void display() {
-		System.out.println("disp of dot\n");
+		System.out.println("display of dot\n");
 	}
 }
 
